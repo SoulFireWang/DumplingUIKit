@@ -1,0 +1,6 @@
+framework module Pods_DumplingUIKit_Example {
+  umbrella header "Pods-DumplingUIKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

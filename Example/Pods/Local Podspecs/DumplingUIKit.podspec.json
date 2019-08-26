@@ -1,0 +1,22 @@
+{
+  "name": "DumplingUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of DumplingUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/soulfirewang/DumplingUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "soulfirewang": "soulfirewang@163.com"
+  },
+  "source": {
+    "git": "https://github.com/soulfirewang/DumplingUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DumplingUIKit/Classes/**/*"
+}

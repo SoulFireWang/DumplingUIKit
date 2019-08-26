@@ -1,0 +1,6 @@
+framework module DumplingUIKit {
+  umbrella header "DumplingUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
